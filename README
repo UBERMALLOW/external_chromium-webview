@@ -1,3 +1,4 @@
-Prebuilt WebViewGoogle apks grabbed from APKMIRROR based on version 52.0.2743.98(arm/arm64) & version 52.0.2743.98(x86)
+Prebuilt WebViewGoogle apks grabbed from APKMIRROR based on version 55.0.2883.45(arm/arm64/x86_64)
 
 Note: Usage of this repo requires you have WebViewGoogle listed in build/target/core_minimal.mk
+it will override WebView package.
